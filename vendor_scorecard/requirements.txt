@@ -1,0 +1,8 @@
+Credential==0.0.2
+mf==0.1.38
+numpy==2.2.5
+openpyxl==3.1.5
+pandas==2.2.3
+PyMySQL==1.1.1
+python-dotenv==1.1.0
+sqlparse==0.5.3
